@@ -1,10 +1,10 @@
 {
 	"info": {
-		"_postman_id": "e958a034-f5a0-4a5d-8df3-544aac5d28e3",
+		"_postman_id": "8f3b5b35-bf00-42ac-abfa-6c4841b9dfd2",
 		"name": "Generar token callback",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "29460625",
-		"_collection_link": "https://red-satellite-829132.postman.co/workspace/PAGO-PRESENTE-AUTENTICACION~3f42c9d4-328d-4e07-9bfb-42673fee6924/collection/29460625-e958a034-f5a0-4a5d-8df3-544aac5d28e3?action=share&source=collection_link&creator=29460625"
+		"_collection_link": "https://red-satellite-829132.postman.co/workspace/Pago-presente-ambiente-pruebas~be2f81e5-b0d7-46c5-b35f-4cd7d925a708/collection/29460625-8f3b5b35-bf00-42ac-abfa-6c4841b9dfd2?action=share&source=collection_link&creator=29460625"
 	},
 	"item": [
 		{
@@ -69,7 +69,7 @@
 					]
 				},
 				"url": {
-					"raw": "https://business.transfiya.com.co/ext/prb/transfiya-pp-oauth/oauth2/token",
+					"raw": "https://business.transfiya.com.co/ach/pib/transfiya-pp-oauth/oauth2/token",
 					"protocol": "https",
 					"host": [
 						"business",
@@ -78,8 +78,8 @@
 						"co"
 					],
 					"path": [
-						"ext",
-						"prb",
+						"ach",
+						"pib",
 						"transfiya-pp-oauth",
 						"oauth2",
 						"token"
