@@ -1,21 +1,21 @@
 {
-	"id": "10123565-aaf7-436a-8726-e72f89d36a71",
+	"id": "37a207bf-3d5a-4c42-873e-7a9675a7896f",
 	"values": [
 		{
 			"key": "base-url",
-			"value": "https://business.transfiya.com.co/ext/prb/ext/transfiya/v1",
+			"value": "https://business.transfiya.com.co/ach/pib/transfiya-pp-oauth",
 			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "client_id",
-			"value": "236dfe767d6e6fa613058cc5cf5afe04",
+			"value": "9d8132da5c61f7214e2c7efce6c6d455",
 			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "client_secret",
-			"value": "14f9f06fe6f5a995651f54bb9ec51371",
+			"value": "ee35121ee6bff61010101a072bb730b9",
 			"type": "default",
 			"enabled": true
 		},
@@ -27,19 +27,25 @@
 		},
 		{
 			"key": "client_id_callback",
-			"value": "65274d8ea32d7c1c3410a6b2792c277f",
+			"value": "227aa339da1424116c8583e24da2582d",
 			"type": "default",
 			"enabled": true
 		},
 		{
 			"key": "client_secret_callback",
-			"value": "cbd2e69a83aa33abe80684a49260315a",
+			"value": "03098a8edac2e247e968ff3901cf2814",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "access_token_callback",
+			"value": "",
 			"type": "default",
 			"enabled": true
 		}
 	],
 	"name": "Globals",
 	"_postman_variable_scope": "globals",
-	"_postman_exported_at": "2024-09-24T14:55:30.451Z",
-	"_postman_exported_using": "Postman/11.13.1"
+	"_postman_exported_at": "2024-10-10T19:47:44.972Z",
+	"_postman_exported_using": "Postman/11.16.0"
 }
