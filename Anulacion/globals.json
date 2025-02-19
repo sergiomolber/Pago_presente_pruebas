@@ -1,0 +1,51 @@
+{
+	"id": "10123565-aaf7-436a-8726-e72f89d36a71",
+	"values": [
+		{
+			"key": "base-url",
+			"value": "https://business.transfiya.com.co/ext/prb/ext/transfiya/v1",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "client_id",
+			"value": "236dfe767d6e6fa613058cc5cf5afe04",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "client_secret",
+			"value": "14f9f06fe6f5a995651f54bb9ec51371",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "access_token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "client_id_callback",
+			"value": "65274d8ea32d7c1c3410a6b2792c277f",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "client_secret_callback",
+			"value": "cbd2e69a83aa33abe80684a49260315a",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "access_token_callback",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-09-24T15:33:23.966Z",
+	"_postman_exported_using": "Postman/11.13.1"
+}
