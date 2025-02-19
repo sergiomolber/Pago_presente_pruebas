@@ -69,7 +69,7 @@
 					]
 				},
 				"url": {
-					"raw": "https://business.transfiya.com.co/ext/prb/transfiya-pp-oauth/oauth2/token",
+					"raw": "https://business.transfiya.com.co/ach/pib/transfiya-pp-oauth/oauth2/token",
 					"protocol": "https",
 					"host": [
 						"business",
@@ -78,8 +78,8 @@
 						"co"
 					],
 					"path": [
-						"ext",
-						"prb",
+						"ach",
+						"pib",
 						"transfiya-pp-oauth",
 						"oauth2",
 						"token"
